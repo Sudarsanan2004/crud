@@ -1,0 +1,7 @@
+npm init -y just creates a package.json file inside our file............-y just skips and creates with default values
+
+
+after installing nodemon go to package.json and add start:"nodemon index.js"
+
+
+axios : bascially to link external or our node api's
